@@ -1,0 +1,30 @@
+#signin_text{
+    
+    text-align: center;
+    margin: 30px;
+    margin-top: 500px;
+    
+    
+}
+
+#Signin{
+    text-align: center;
+    margin: 30px;
+}
+
+.login{
+    
+    
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-bottom: 500px;
+}
+.bgcolor{
+    background-image: url(../Logo/background.jpg);
+    background-color: #cccccc;
+                      height: 700px;
+                      background-position: center;
+                      background-repeat: no-repeat;
+                      background-size: cover;
+                      position: relative;
+}

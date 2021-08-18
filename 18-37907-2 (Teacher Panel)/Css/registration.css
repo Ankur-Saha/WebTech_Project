@@ -1,0 +1,9 @@
+.bgcolor{
+    background-image: url(../Logo/background.jpg);
+    background-color: #cccccc;
+                      height: 700px;
+                      background-position: center;
+                      background-repeat: no-repeat;
+                      background-size: cover;
+                      position: relative;
+}
